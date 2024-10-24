@@ -9,39 +9,39 @@ export default function CardHoverEffectDemo() {
 }
 export const projects = [
   {
-    title: "Stripe",
+    title: "Personalized Learning",
     description:
-      "A technology company that builds economic infrastructure for the internet.",
+      "AI-powered system adapts to each student's learning style and pace",
     link: "https://stripe.com",
   },
   {
-    title: "Netflix",
+    title: "Interactive Classes",
     description:
-      "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
+      "Live and recorded sessions with smart summaries and key checkpoints",
     link: "https://netflix.com",
   },
   {
-    title: "Google",
+    title: "AI Guidance",
     description:
-      "A multinational technology company that specializes in Internet-related services and products.",
+      "Intelligent chatbot provides 24/7 support and personalized recommendations",
     link: "https://google.com",
   },
   {
-    title: "Meta",
+    title: "Smart Analytics",
     description:
-      "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
+      "Detailed insights into student progress and performance",
     link: "https://meta.com",
   },
   {
-    title: "Amazon",
+    title: "AI-Generated Content",
     description:
-      "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+      "Automated quiz generation and content summarization",
     link: "https://amazon.com",
   },
   {
-    title: "Microsoft",
+    title: "Collaborative Learning",
     description:
-      "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
+      "Interactive classroom environment with real-time engagement",
     link: "https://microsoft.com",
   },
 ];
